@@ -2,7 +2,7 @@
 
 My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) enigmas each day with a new language.
 
-- [ ] Day 01 : Erlang
+- [x] Day 01 : Erlang
 - [ ] Day 02 : ???
 - [ ] Day 03 : ???
 - [ ] Day 04 : ???
