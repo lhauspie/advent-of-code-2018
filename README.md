@@ -4,7 +4,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 
 - [x] Day 01 : Erlang
 - [x] Day 02 : Scratch (thanks to [[a11t] Arnaud Locquet 🤘](https://twitter.com/LocquetArnaud/status/1068890418790785025))
-- [ ] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io/status/1068899728849625088))
+- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io/status/1068899728849625088))
 - [ ] Day 04 : Prolog (thanks to [Alban Delcourt](https://twitter.com/albankize/status/1069213715524972544))
 - [ ] Day 05 : Ada (thanks to [Alban Delcourt](https://twitter.com/albankize/status/1069213715524972544))
 - [ ] Day 06 : ???
