@@ -3,10 +3,10 @@
 My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) enigmas each day with a new language.
 
 - [x] Day 01 : Erlang
-- [x] Day 02 : Scratch (thanks to [[a11t] Arnaud Locquet 🤘](https://twitter.com/LocquetArnaud/status/1068890418790785025))
-- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io/status/1068899728849625088))
-- [ ] Day 04 : Prolog (thanks to [Alban Delcourt](https://twitter.com/albankize/status/1069213715524972544))
-- [ ] Day 05 : Ada (thanks to [Alban Delcourt](https://twitter.com/albankize/status/1069213715524972544))
+- [x] Day 02 : Scratch (thanks to [[a11t] Arnaud Locquet 🤘](https://twitter.com/LocquetArnaud))
+- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io/))
+- [ ] Day 04 : ???
+- [ ] Day 05 : ???
 - [ ] Day 06 : ???
 - [ ] Day 07 : ???
 - [ ] Day 08 : ???
@@ -27,3 +27,37 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [ ] Day 23 : ???
 - [ ] Day 24 : ???
 
+
+## Les languages proposés par la communauté
+
+### Les complètement WTF !!
+- Scratch (@LocquetArnaud)
+- PonyLang
+- BrainFuck
+- ArnoldC
+- Piet Mondrian
+- Whitespace
+- XSL
+- WinDev
+
+### Les conventionnels
+- Prolog (@albankize)
+- Ada (@albankize)
+- Haskell (@valoo_io)
+- OCaml (@maxcleme)
+- Lua
+- Julia
+- Perl (@cfurmaniak)
+- Bash (@maxcleme)
+- Elixir (@maxcleme)
+- PHP (@maxcleme)
+- Visual Basic (@maxcleme)
+- Rust (@riduidel)
+- Ruby (@riduidel)
+- Fortran (@riduidel)
+- Python (@riduidel)
+- Vanilla JS (@lhauspie)
+- TypeScript (Node)
+- GoLang (@lhauspie)
+- Kotlin (@lhauspie)
+- Java (@lhauspie)
