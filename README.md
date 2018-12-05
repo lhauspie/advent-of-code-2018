@@ -3,9 +3,9 @@
 My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) enigmas each day with a new language.
 
 - [x] Day 01 : Erlang
-- [x] Day 02 : Scratch (thanks to [[a11t] Arnaud Locquet 🤘](https://twitter.com/LocquetArnaud))
-- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io/))
-- [ ] Day 04 : ???
+- [x] Day 02 : Scratch (thanks to [Arnaud Locquet](https://twitter.com/LocquetArnaud))
+- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io))
+- [x] Day 04 : Ada (thanks to [Alban Delcourt](https://twitter.com/albankize))
 - [ ] Day 05 : ???
 - [ ] Day 06 : ???
 - [ ] Day 07 : ???
