@@ -35,7 +35,7 @@ $ perl puzzle.pl
 ## Feedback
 
 - Langage très simple
-- Langage interprété
+- Langage interprété (donc pas de compilation)
 - Cousin très éloigné du bash
 - Intégre une gestion des regexps dans le langage
 - Je n'ai pas eut à me battre avec des structures de données complexes (le cas était simple)
