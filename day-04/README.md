@@ -73,7 +73,7 @@ $ ./puzzle
 
 - Dès qu'on a un algo un peu complexe, ca peut vite devenir une vrai plat de spaghetti...
     - Je dois surement mal m'y prendre.
-    - Il doit y avoir moyen de faire des vrais classes avec des vraies méthodes... mais trop le temps d'approfondir.
+    - Il doit y avoir moyen de faire des vrais classes avec des vraies méthodes... mais pas trop le temps d'approfondir.
 
 En terme d'avantage :
 - Une courbe d'apprentissage assez rapide
