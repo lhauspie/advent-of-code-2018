@@ -8,7 +8,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 04 : Ada (thanks to [Alban Delcourt](https://twitter.com/albankize))
 - [x] Day 05 : Perl (thanks to [Christophe Furmaniak](https://twitter.com/@cfurmaniak))
 - [x] Day 06 : Julia (thanks to [Maxime Clement](https://github.com/maxcleme))
-- [ ] Day 07 : ???
+- [x] Day 07 : OCaml (thanks to [Maxime Clement](https://github.com/maxcleme))
 - [ ] Day 08 : ???
 - [ ] Day 09 : ???
 - [ ] Day 10 : ???
