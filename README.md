@@ -3,13 +3,13 @@
 My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) enigmas each day with a new language.
 
 - [x] Day 01 : Erlang
-- [x] Day 02 : Scratch (thanks to [Arnaud Locquet](https://twitter.com/LocquetArnaud))
-- [x] Day 03 : Haskell (thanks to [Valentin Delbeke](https://twitter.com/valoo_io))
-- [x] Day 04 : Ada (thanks to [Alban Delcourt](https://twitter.com/albankize))
-- [x] Day 05 : Perl (thanks to [Christophe Furmaniak](https://twitter.com/@cfurmaniak))
-- [x] Day 06 : Julia (thanks to [Maxime Clement](https://github.com/maxcleme))
-- [x] Day 07 : OCaml (thanks to [Maxime Clement](https://github.com/maxcleme))
-- [ ] Day 08 : ???
+- [x] Day 02 : Scratch (proposed by [Arnaud Locquet](https://twitter.com/LocquetArnaud))
+- [x] Day 03 : Haskell (proposed by [Valentin Delbeke](https://twitter.com/valoo_io))
+- [x] Day 04 : Ada (proposed by [Alban Delcourt](https://twitter.com/albankize))
+- [x] Day 05 : Perl (proposed by [Christophe Furmaniak](https://twitter.com/@cfurmaniak))
+- [x] Day 06 : Julia (proposed by [Maxime Clement](https://github.com/maxcleme))
+- [x] Day 07 : OCaml (proposed by [Maxime Clement](https://github.com/maxcleme))
+- [x] Day 08 : Elixir (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [ ] Day 09 : ???
 - [ ] Day 10 : ???
 - [ ] Day 11 : ???
