@@ -10,7 +10,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 06 : Julia (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 07 : OCaml (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 08 : Elixir (proposed by [Maxime Clement](https://github.com/maxcleme))
-- [ ] Day 09 : ???
+- [x] Day 09 : Lua (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [ ] Day 10 : ???
 - [ ] Day 11 : ???
 - [ ] Day 12 : ???
@@ -31,33 +31,33 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 ## Les languages proposés par la communauté
 
 ### Les complètement WTF !!
-- Scratch (@LocquetArnaud)
-- PonyLang
-- BrainFuck
 - ArnoldC
+- BrainFuck
 - Piet Mondrian
+- ~~Scratch~~ (@LocquetArnaud)
 - Whitespace
-- XSL
 - WinDev
+- XSL
 
 ### Les conventionnels
-- Prolog (@albankize)
-- Ada (@albankize)
-- Haskell (@valoo_io)
-- OCaml (@maxcleme)
-- Lua
-- Julia
-- Perl (@cfurmaniak)
+- ~~Ada~~ (@albankize)
 - Bash (@maxcleme)
-- Elixir (@maxcleme)
-- PHP (@maxcleme)
-- Visual Basic (@maxcleme)
-- Rust (@riduidel)
-- Ruby (@riduidel)
+- ~~Elixir~~ (@maxcleme)
 - Fortran (@riduidel)
-- Python (@riduidel)
-- Vanilla JS (@lhauspie)
-- TypeScript (Node)
 - GoLang (@lhauspie)
-- Kotlin (@lhauspie)
+- ~~Haskell~~ (@valoo_io)
 - Java (@lhauspie)
+- ~~Julia~~
+- Kotlin (@lhauspie)
+- ~~Lua~~ (@maxcleme)
+- ~~OCaml~~ (@maxcleme)
+- ~~Perl~~ (@cfurmaniak)
+- PHP (@maxcleme)
+- PonyLang (@sderosiaux)
+- Prolog (@albankize)
+- Python (@riduidel)
+- Ruby (@riduidel)
+- Rust (@riduidel)
+- TypeScript
+- Vanilla JS (@lhauspie)
+- Visual Basic (@maxcleme)
