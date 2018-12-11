@@ -11,7 +11,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 07 : OCaml (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 08 : Elixir (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 09 : Lua (proposed by [Maxime Clement](https://github.com/maxcleme))
-- [ ] Day 10 : ???
+- [x] Day 10 : PHP (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [ ] Day 11 : ???
 - [ ] Day 12 : ???
 - [ ] Day 13 : ???
@@ -52,7 +52,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Lua~~ (@maxcleme)
 - ~~OCaml~~ (@maxcleme)
 - ~~Perl~~ (@cfurmaniak)
-- PHP (@maxcleme)
+- ~~PHP~~ (@maxcleme)
 - PonyLang (@sderosiaux)
 - Prolog (@albankize)
 - Python (@riduidel)
