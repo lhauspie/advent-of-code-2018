@@ -12,7 +12,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 08 : Elixir (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 09 : Lua (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 10 : PHP (proposed by [Maxime Clement](https://github.com/maxcleme))
-- [ ] Day 11 : ???
+- [x] Day 11 : R (proposed by [Jérémy T](https://twitter.com/zThulj))
 - [ ] Day 12 : ???
 - [ ] Day 13 : ???
 - [ ] Day 14 : ???
@@ -41,8 +41,10 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 
 ### Les conventionnels
 - ~~Ada~~ (@albankize)
+- Apl (@malk_zameth)
 - Bash (@maxcleme)
 - ~~Elixir~~ (@maxcleme)
+- Forth (@malk_zameth)
 - Fortran (@riduidel)
 - GoLang (@lhauspie)
 - ~~Haskell~~ (@valoo_io)
@@ -50,14 +52,17 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Julia~~
 - Kotlin (@lhauspie)
 - ~~Lua~~ (@maxcleme)
+- Lisp (@malk_zameth)
 - ~~OCaml~~ (@maxcleme)
 - ~~Perl~~ (@cfurmaniak)
 - ~~PHP~~ (@maxcleme)
 - PonyLang (@sderosiaux)
 - Prolog (@albankize)
 - Python (@riduidel)
+- ~~R~~ (@zThulj)
 - Ruby (@riduidel)
 - Rust (@riduidel)
+- Swift (@zThulj)
 - TypeScript
 - Vanilla JS (@lhauspie)
 - Visual Basic (@maxcleme)

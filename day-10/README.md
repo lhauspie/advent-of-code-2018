@@ -1,4 +1,4 @@
-# Day10 : The Stars Align
+# Day 10 : The Stars Align
 
 It's no use; your navigation system simply isn't capable of providing walking directions in the arctic circle, and certainly not in 1018.
 
