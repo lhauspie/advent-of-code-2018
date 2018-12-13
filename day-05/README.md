@@ -26,8 +26,19 @@ How many units remain after fully reacting the polymer you scanned? (Note: in th
 
 
 ## How to run
+
+Lancer les tests :
 ```
 $ perl puzzle.t
+```
+
+Lancer les puzzles :
+```
+$ cd puzzle1
+$ perl puzzle.pl
+```
+```
+$ cd puzzle2
 $ perl puzzle.pl
 ```
 

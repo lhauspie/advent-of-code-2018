@@ -13,7 +13,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 09 : Lua (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 10 : PHP (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 11 : R (proposed by [Jérémy T](https://twitter.com/zThulj))
-- [ ] Day 12 : ???
+- [x] Day 12 : Python (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [ ] Day 13 : ???
 - [ ] Day 14 : ???
 - [ ] Day 15 : ???
@@ -58,7 +58,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~PHP~~ (@maxcleme)
 - PonyLang (@sderosiaux)
 - Prolog (@albankize)
-- Python (@riduidel)
+- ~~Python~~ (@riduidel)
 - ~~R~~ (@zThulj)
 - Ruby (@riduidel)
 - Rust (@riduidel)
