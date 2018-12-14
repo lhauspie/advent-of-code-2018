@@ -14,7 +14,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 10 : PHP (proposed by [Maxime Clement](https://github.com/maxcleme))
 - [x] Day 11 : R (proposed by [Jérémy T](https://twitter.com/zThulj))
 - [x] Day 12 : Python (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
-- [ ] Day 13 : ???
+- [x] Day 13 : Ruby (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [ ] Day 14 : ???
 - [ ] Day 15 : ???
 - [ ] Day 16 : ???
@@ -60,7 +60,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - Prolog (@albankize)
 - ~~Python~~ (@riduidel)
 - ~~R~~ (@zThulj)
-- Ruby (@riduidel)
+- ~~Ruby~~ (@riduidel)
 - Rust (@riduidel)
 - Swift (@zThulj)
 - TypeScript
