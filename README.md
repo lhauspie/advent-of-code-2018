@@ -15,7 +15,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 11 : R (proposed by [Jérémy T](https://twitter.com/zThulj))
 - [x] Day 12 : Python (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 13 : Ruby (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
-- [ ] Day 14 : ???
+- [x] Day 14 : Rust (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [ ] Day 15 : ???
 - [ ] Day 16 : ???
 - [ ] Day 17 : ???
@@ -61,7 +61,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Python~~ (@riduidel)
 - ~~R~~ (@zThulj)
 - ~~Ruby~~ (@riduidel)
-- Rust (@riduidel)
+- ~~Rust~~ (@riduidel)
 - Swift (@zThulj)
 - TypeScript
 - Vanilla JS (@lhauspie)
