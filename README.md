@@ -17,7 +17,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 13 : Ruby (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 14 : Rust (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 15 : GoLang (Langage "Joker" en cas de coup dure !)
-- [ ] Day 16 : ???
+- [x] Day 16 : Kotlin
 - [ ] Day 17 : ???
 - [ ] Day 18 : ???
 - [ ] Day 19 : ???
@@ -50,7 +50,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Haskell~~ (@valoo_io)
 - Java (@lhauspie)
 - ~~Julia~~
-- Kotlin (@lhauspie)
+- ~~Kotlin~~ (@lhauspie)
 - ~~Lua~~ (@maxcleme)
 - Lisp (@malk_zameth)
 - ~~OCaml~~ (@maxcleme)
