@@ -1,4 +1,4 @@
-# Day 16 : Chronal Classification ---
+# Day 16 : Chronal Classification
 
 As you see the Elves defend their hot chocolate successfully, you go back to falling through time. This is going to become a problem.
 

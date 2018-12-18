@@ -18,7 +18,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 14 : Rust (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 15 : GoLang (Langage "Joker" en cas de coup dure !)
 - [x] Day 16 : Kotlin
-- [ ] Day 17 : ???
+- [x] Day 17 : TypeScript
 - [ ] Day 18 : ???
 - [ ] Day 19 : ???
 - [ ] Day 20 : ???
@@ -63,6 +63,6 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Ruby~~ (@riduidel)
 - ~~Rust~~ (@riduidel)
 - Swift (@zThulj)
-- TypeScript
+- ~~TypeScript~~
 - Vanilla JS (@lhauspie)
 - Visual Basic (@maxcleme)
