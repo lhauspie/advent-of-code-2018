@@ -16,10 +16,10 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 12 : Python (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 13 : Ruby (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 14 : Rust (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
-- [x] Day 15 : GoLang (Langage "Joker" en cas de coup dure !)
+- [x] Day 15 : GoLang ("Joker" language to deal with complex algorithm!)
 - [x] Day 16 : Kotlin
 - [x] Day 17 : TypeScript
-- [ ] Day 18 : ???
+- [x] Day 18 : C++ (proposed by [Valentin Delbeke](https://twitter.com/valoo_io))
 - [ ] Day 19 : ???
 - [ ] Day 20 : ???
 - [ ] Day 21 : ???
@@ -43,6 +43,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~Ada~~ (@albankize)
 - Apl (@malk_zameth)
 - Bash (@maxcleme)
+- ~~C++~~ (@valoo_io)
 - ~~Elixir~~ (@maxcleme)
 - Forth (@malk_zameth)
 - Fortran (@riduidel)
