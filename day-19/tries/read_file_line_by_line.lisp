@@ -1,0 +1,6 @@
+(with-open-file (stream "input.txt")
+    (loop for line = (read-line stream nil 'foo)
+        until (eq line 'foo)
+        do (print line)
+    )
+)
