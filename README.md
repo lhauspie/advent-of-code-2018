@@ -21,11 +21,12 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 17 : TypeScript
 - [x] Day 18 : C++ (proposed by [Valentin Delbeke](https://twitter.com/valoo_io))
 - [x] Day 19 : Lisp (proposed by [Romeu Moura](https://twitter.com/malk_zameth))
-- [ ] Day 20 : ???
+- [x] Day 20 : Bash
 - [ ] Day 21 : ???
 - [ ] Day 22 : ???
 - [ ] Day 23 : ???
 - [ ] Day 24 : ???
+- [ ] Day 25 : ???
 
 
 ## Les languages proposés par la communauté
@@ -42,7 +43,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 ### Les conventionnels
 - ~~Ada~~ (@albankize)
 - Apl (@malk_zameth)
-- Bash (@maxcleme)
+- ~~Bash~~ (@maxcleme)
 - ~~C++~~ (@valoo_io)
 - ~~Elixir~~ (@maxcleme)
 - Forth (@malk_zameth)
