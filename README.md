@@ -23,7 +23,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 19 : Lisp (proposed by [Romeu Moura](https://twitter.com/malk_zameth))
 - [x] Day 20 : Bash
 - [x] Day 21 : Vanilla JS
-- [ ] Day 22 : ???
+- [x] Day 22 : ZigLang
 - [ ] Day 23 : ???
 - [ ] Day 24 : ???
 - [ ] Day 25 : ???
@@ -68,3 +68,4 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - ~~TypeScript~~
 - ~~Vanilla JS~~ (@lhauspie)
 - Visual Basic (@maxcleme)
+- ~~Zig~~
