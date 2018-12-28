@@ -24,7 +24,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 20 : Bash
 - [x] Day 21 : Vanilla JS
 - [x] Day 22 : ZigLang
-- [ ] Day 23 : ???
+- [x] Day 23 : Clojure (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [ ] Day 24 : ???
 - [ ] Day 25 : ???
 
@@ -45,6 +45,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - Apl (@malk_zameth)
 - ~~Bash~~ (@maxcleme)
 - ~~C++~~ (@valoo_io)
+- ~~Clojure~~ (@riduidel)
 - ~~Elixir~~ (@maxcleme)
 - Forth (@malk_zameth)
 - Fortran (@riduidel)
