@@ -25,7 +25,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 21 : Vanilla JS
 - [x] Day 22 : ZigLang
 - [x] Day 23 : Clojure (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
-- [ ] Day 24 : ???
+- [x] Day 24 : Java
 - [ ] Day 25 : ???
 
 
@@ -51,7 +51,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - Fortran (@riduidel)
 - ~~GoLang~~ (@lhauspie)
 - ~~Haskell~~ (@valoo_io)
-- Java (@lhauspie)
+- ~~Java~~ (@lhauspie)
 - ~~Julia~~
 - ~~Kotlin~~ (@lhauspie)
 - ~~Lua~~ (@maxcleme)
