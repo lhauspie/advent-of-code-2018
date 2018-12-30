@@ -1,6 +1,6 @@
 # Advent of Code 2018
 
-My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) enigmas each day with a new language.
+My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/2018) puzzles each day with a new language.
 
 - [x] Day 01 : Erlang
 - [x] Day 02 : Scratch (proposed by [Arnaud Locquet](https://twitter.com/LocquetArnaud))
@@ -26,7 +26,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - [x] Day 22 : ZigLang
 - [x] Day 23 : Clojure (proposed by [Nicolas Delsaux](https://twitter.com/riduidel))
 - [x] Day 24 : Java
-- [ ] Day 25 : ???
+- [x] Day 25 : Groovy
 
 
 ## Les languages proposés par la communauté
@@ -50,6 +50,7 @@ My challenge is to resolve the [advent-of-code 2018](https://adventofcode.com/20
 - Forth (@malk_zameth)
 - Fortran (@riduidel)
 - ~~GoLang~~ (@lhauspie)
+- ~~Groovy~~
 - ~~Haskell~~ (@valoo_io)
 - ~~Java~~ (@lhauspie)
 - ~~Julia~~
